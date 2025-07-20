@@ -1,0 +1,4 @@
+interfaces:
+  - name: tap0
+  - name: tap1
+  - name: tap2
